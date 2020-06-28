@@ -7,3 +7,9 @@ Duncan Idaho ist ein Charakter aus den Dune Universum, des Autors Frank Herbert.
 * Älter als 10.000 Jahre (komuliert)
 * Schwertmeister
 * Mentat
+
+Duncan Idaho:
+> Do not compete with what is happening. 
+> To compete is to prepare for failure. 
+> Do not trapped by the need to achieve anything.
+> This way you achieve everything.
