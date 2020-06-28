@@ -13,3 +13,5 @@ Duncan Idaho:
 > To compete is to prepare for failure. 
 > Do not trapped by the need to achieve anything.
 > This way you achieve everything.
+
+<img src="https://images.freeimages.com/images/large-previews/d24/desert-1393263.jpg">
