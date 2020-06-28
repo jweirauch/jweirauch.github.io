@@ -14,4 +14,4 @@ Duncan Idaho:
 > Do not trapped by the need to achieve anything.
 > This way you achieve everything.
 
-[Beispiel Bild]<img src="https://images.freeimages.com/images/large-previews/d24/desert-1393263.jpg">
+<img src="https://images.freeimages.com/images/large-previews/d24/desert-1393263.jpg">
